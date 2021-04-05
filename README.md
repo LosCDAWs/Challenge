@@ -16,7 +16,6 @@ In this project we discuss how to make three models accurate and precise (one ge
 # 4. Result of the competition
 # 5. Presentation discussion
 
-# 1.
 
 
 
